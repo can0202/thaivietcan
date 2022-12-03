@@ -1,0 +1,106 @@
+.mb {
+  display: none;
+}
+
+@media screen and (min-width: 720px) {
+  .container {
+    max-width: 760px;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .container {
+    max-width: 980px;
+  }
+}
+
+@media screen and (min-width: 1140px) {
+  .container {
+    max-width: 1300px;
+  }
+}
+
+
+@media screen and (max-width: 1024px) {
+  .header__middle h1 {
+    font-size: 45px;
+    line-height: 50px;
+    max-width: 100%;
+  }
+
+  .page__user .site__content {
+    min-width: 80%;
+  }
+
+  .post__all__home {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .post__all__home {
+    gap: 25px;
+    row-gap: 45px;
+  }
+
+  .login__page {
+    flex-direction: column;
+    border-radius: 8px;
+    background: #ffffffc4;
+  }
+
+  .form__login {
+    width: 100%;
+  }
+
+  .image__login {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    height: 100%;
+  }
+
+  .formdangnhap h3 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .mb {
+    display: block;
+  }
+
+  .pc {
+    display: none;
+  }
+
+  .header__bottom ul li {
+    margin-bottom: 20px;
+  }
+
+  .post__all__home {
+    grid-template-columns: 1fr;
+  }
+
+  .single .entry-title,
+  .header__middle h1 {
+    max-width: 100%;
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .single .entry-thumbnail img {
+    height: 250px;
+  }
+
+  .footer__main {
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .footer__menus {
+    margin-bottom: 20px;
+  }
+}

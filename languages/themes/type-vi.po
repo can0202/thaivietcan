@@ -1,0 +1,531 @@
+# Translation of Themes - Type in Vietnamese
+# This file is distributed under the same license as the Themes - Type package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-17 12:39:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Type\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Type"
+msgstr "Type"
+
+#. Template Name of the theme
+msgid "No Sidebar, Full Width"
+msgstr "Không cột bên, tràn trang"
+
+#. Template Name of the theme
+msgid "No Sidebar, Centered"
+msgstr "Không cột bên, căn giữa"
+
+#: template-parts/post/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không tìm thấy thứ bạn đang muốn xem. Hãy thử chức năng tìm kiếm."
+
+#: template-parts/post/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sẵn sàng viết bài đầu tiên? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/post/author-bio.php:24
+msgid "View all posts by %s"
+msgstr "Xem tất cả bài viết của %s"
+
+#: template-parts/post/author-bio.php:20
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: template-parts/page/content-page.php:35
+#: template-parts/post/content-single.php:43
+msgid "Pages:"
+msgstr "Trang:"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Tìm"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Tìm &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Kết quả tìm kiếm cho:"
+
+#: search.php:51
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, không có kết quả nào phù hợp. Hãy thử lại với từ khoá khác."
+
+#: search.php:29 template-parts/post/content-none.php:19
+msgid "Nothing Found"
+msgstr "Không tìm thấy"
+
+#: search.php:27
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:121 template-parts/page/content-page.php:46
+msgid "Edit %s"
+msgstr "Sửa %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:114
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Gửi bình luận<span class=\"screen-reader-text\"> trong %s</span>"
+
+#: inc/template-tags.php:107
+msgid "Tagged %1$s"
+msgstr "Tag %1$s"
+
+#: inc/template-tags.php:101
+msgid "Posted in %1$s"
+msgstr "Đăng vào %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:99 inc/template-tags.php:105
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:26 inc/template-tags.php:41 inc/template-tags.php:56
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/template-tags.php:83
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Đăng vào"
+
+#: inc/customizer.php:838
+msgid "Footer Widget Area Background"
+msgstr "Nền của widget cuối trang"
+
+#: inc/customizer.php:223
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: inc/customizer.php:826
+msgid "Search Icon"
+msgstr "Icon tìm kiếm"
+
+#: inc/customizer.php:814
+msgid "Social Link"
+msgstr "Liên kết mạng xã hội"
+
+#: inc/customizer.php:802
+msgid "This option overrides the Accent Color."
+msgstr "Lựa chọn này ghi đè lên màu chính."
+
+#: inc/customizer.php:776
+msgid "Navbar Background"
+msgstr "Nền menu"
+
+#: inc/customizer.php:801
+msgid "Menu Item hover"
+msgstr "Rê chuột vào liên kết menu"
+
+#: inc/customizer.php:789
+msgid "Menu Item"
+msgstr "Liên kết menu"
+
+#: inc/customizer.php:764
+msgid "Site Tagline"
+msgstr "Tiêu đề website"
+
+#: inc/customizer.php:752
+msgid "Header Background"
+msgstr "Nền trên đầu trang"
+
+#: functions.php:140 inc/customizer.php:729
+msgid "Accent Color"
+msgstr "Màu chính"
+
+#: inc/customizer.php:143
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: inc/customizer.php:353
+msgid "Logo Max Width (mobile)"
+msgstr "Chiều dài tối đa logo (mobile)"
+
+#: inc/customizer.php:341
+msgid "Logo Max Width (desktop)"
+msgstr "Chiều dài tối đa logo (desktop)"
+
+#: inc/customizer.php:199
+msgid "Page"
+msgstr "Trang"
+
+#: inc/customizer.php:617
+msgid "Display Author Bio"
+msgstr "Hiển thị thông tin tác giả"
+
+#: inc/customizer.php:481 inc/customizer.php:535 inc/customizer.php:600
+#: inc/customizer.php:676 inc/customizer.php:702
+msgid "Sidebar Position"
+msgstr "Vị trí cột bên"
+
+#: functions.php:100 inc/customizer.php:471 inc/customizer.php:525
+msgid "Large"
+msgstr "Khung lớn"
+
+#: inc/customizer.php:470 inc/customizer.php:524
+msgid "Grid"
+msgstr "Chia cột"
+
+#: inc/customizer.php:469 inc/customizer.php:523
+msgid "List"
+msgstr "Danh sách"
+
+#: inc/customizer.php:465 inc/customizer.php:519
+msgid "Post Layout"
+msgstr "Bố cục bài viết"
+
+#: inc/customizer.php:440
+msgid "Avoid duplicate posts"
+msgstr "Tránh trùng bài viết"
+
+#: inc/customizer.php:256
+msgid "Display Read More Link"
+msgstr "Hiển thị link Đọc thêm"
+
+#: footer.php:66
+msgid "Powered by %s"
+msgstr "Cung cấp bởi %s"
+
+#: footer.php:66
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr "Bình luận đã bị khoá."
+
+#: comments.php:56 comments.php:76
+msgid "Newer Comments"
+msgstr "Bình luận mới hơn"
+
+#: comments.php:55 comments.php:75
+msgid "Older Comments"
+msgstr "Bình luận cũ hơn"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Trả lời &ldquo;%2$s&rdquo;"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Xin lỗi, trang này không tồn tại."
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Menu của bình luận"
+
+#. translators: %s: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Một bình luận cho &ldquo;%s&rdquo;"
+
+#: functions.php:487
+msgid "Home"
+msgstr "Trang chủ"
+
+#: functions.php:258
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:163
+msgctxt "Nunito Sans: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:43 template-parts/navigation/navigation-social.php:11
+msgid "Social Menu"
+msgstr "Menu mạng xã hội"
+
+#: functions.php:42 template-parts/navigation/navigation-main.php:11
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: footer.php:68
+msgid "Theme by %s"
+msgstr "Giao diện thiết kế bởi %s"
+
+#: functions.php:551
+msgid "Read More"
+msgstr "Xem thêm"
+
+#: functions.php:738
+msgid "Y"
+msgstr "Y"
+
+#: header.php:33
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer.php:118
+msgid "Site Title"
+msgstr "Tên website"
+
+#: inc/customizer.php:163
+msgid "Settings for Site Header."
+msgstr "Thiết lập cho Đầu trang."
+
+#: inc/customizer.php:304
+msgid "Display Search Icon"
+msgstr "Hiển thị icon tìm kiếm"
+
+#: inc/customizer.php:315
+msgid "Display Social Links"
+msgstr "Hiển thị Menu mạng xã hội"
+
+#: inc/customizer.php:388
+msgid "0%"
+msgstr "0%"
+
+#: inc/customizer.php:392
+msgid "40%"
+msgstr "40%"
+
+#: inc/customizer.php:391
+msgid "30%"
+msgstr "30%"
+
+#: inc/customizer.php:390
+msgid "20%"
+msgstr "20%"
+
+#: inc/customizer.php:389
+msgid "10%"
+msgstr "10%"
+
+#: inc/customizer.php:205
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer.php:587 inc/customizer.php:663
+msgid "Large Featured Image"
+msgstr "Ảnh đại diện lớn"
+
+#: inc/customizer.php:572 inc/customizer.php:648
+msgid "Display Featured Image"
+msgstr "Hiển thị ảnh đại diện"
+
+#: inc/customizer.php:193
+msgid "Post"
+msgstr "Bài viết"
+
+#: inc/customizer.php:189
+msgid "Settings for Category, Tag, Search and Archive Pages."
+msgstr "Thiết lập cho Danh mục, Tag, Tìm kiếm và trang Lưu trữ."
+
+#: inc/customizer.php:186
+msgid "Categories & Archives"
+msgstr "Danh mục & Lưu trữ"
+
+#: inc/customizer.php:497 inc/customizer.php:551
+msgid "Excerpt length"
+msgstr "Độ dài nội dung"
+
+#: inc/customizer.php:487 inc/customizer.php:541 inc/customizer.php:607
+#: inc/customizer.php:709
+msgid "No Sidebar Full width"
+msgstr "Tràn trang không cột bên"
+
+#: inc/customizer.php:486 inc/customizer.php:540 inc/customizer.php:605
+#: inc/customizer.php:682 inc/customizer.php:708
+msgid "Left Sidebar"
+msgstr "Cột bên trái"
+
+#: inc/customizer.php:588 inc/customizer.php:664
+msgid "Full width Featured Image"
+msgstr "Ảnh đại diện dài đầy đủ"
+
+#: inc/customizer.php:606
+msgid "No Sidebar Centered"
+msgstr "Không cột bên cân giữa"
+
+#: inc/customizer.php:173
+msgid "Featured Posts"
+msgstr "Bài nổi bật"
+
+#: inc/customizer.php:406
+msgid "Display Featured Posts"
+msgstr "Hiển thị bài nổi bật"
+
+#: inc/customizer.php:452
+msgid "Select a Category"
+msgstr "Chọn chuyên mục"
+
+#: inc/customizer.php:418
+msgid "Display Title"
+msgstr "Hiển thị tiêu đề"
+
+#: inc/customizer.php:485 inc/customizer.php:539 inc/customizer.php:604
+#: inc/customizer.php:681 inc/customizer.php:707
+msgid "Right Sidebar"
+msgstr "Cột bên phải"
+
+#: inc/customizer.php:393
+msgid "50%"
+msgstr "50%"
+
+#: inc/customizer.php:396
+msgid "80%"
+msgstr "80%"
+
+#: inc/customizer.php:395
+msgid "70%"
+msgstr "70%"
+
+#: inc/customizer.php:394
+msgid "60%"
+msgstr "60%"
+
+#: inc/customizer.php:283
+msgid "Site Title centered above Header Image + Navbar below"
+msgstr "Tiêu đề site căn giữa bên trên ảnh nền + Menu bên dưới"
+
+#: inc/customizer.php:284
+msgid "Site Title centered above Header Image + Top Navbar"
+msgstr "Tiêu đề site căn giữa bên trên ảnh đầu trang + Menu bên trên"
+
+#: inc/customizer.php:282
+msgid "Site Title centered over Header Image + Navbar below"
+msgstr "Tiêu đề site căn giữa bên dưới ảnh đầu trang + Menu"
+
+#: inc/customizer.php:150
+msgid "Type Links"
+msgstr "Liên kết bổ sung"
+
+#: inc/customizer.php:154 inc/customizer.php:213
+msgid "General"
+msgstr "Thiết lập chung"
+
+#: inc/customizer.php:218
+msgid "Header"
+msgstr "Đầu trang"
+
+#: inc/customizer.php:62
+msgid "Follow on Twitter"
+msgstr "Theo dõi trên Twitter"
+
+#: inc/customizer.php:54
+msgid "Rate This Theme"
+msgstr "Đánh giá giao diện này"
+
+#: inc/customizer.php:50
+msgid "Theme Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#: inc/customizer.php:46
+msgid "Theme Homepage"
+msgstr "Trang chủ của tác giả"
+
+#: inc/customizer.php:42
+msgid "Try Type Plus"
+msgstr "Thử bản trả phí"
+
+#: inc/customize-pro/class-customize.php:77
+msgid "View Type Plus"
+msgstr "Xem bản trả phí"
+
+#: inc/customize-pro/class-customize.php:76
+msgid "Type Plus"
+msgstr "Bản trả phí"
+
+#: functions.php:331
+msgid "Skip to content"
+msgstr "Chuyển tới phần nội dung"
+
+#: functions.php:304
+msgid "Shop Sidebar"
+msgstr "Cột của Shop"
+
+#: functions.php:267
+msgid "Footer Widget Area 1"
+msgstr "Widget cuối trang 1"
+
+#: functions.php:285
+msgid "Footer Widget Area 3"
+msgstr "Widget cuối trang 3"
+
+#: functions.php:276
+msgid "Footer Widget Area 2"
+msgstr "Widget cuối trang 2"
+
+#: functions.php:269 functions.php:278 functions.php:287
+msgid "Add widgets here to appear in your footer."
+msgstr "Thêm widget ở đây để hiện ở cuối trang."
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:168
+msgctxt "Poppins: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:260
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Thêm widget ở đây để hiện ở cột bên."
+
+#: functions.php:306
+msgid "Add widgets here to appear in your Shop."
+msgstr "Thêm widget ở đây để hiện ở trang Shop."
+
+#: inc/customizer.php:703
+msgid "Sidebar options for WooCommerce Pages (Shop, Product, Product Category)"
+msgstr "Tuỳ chọn cột bên cho các trang của WooCommerce"
+
+#: inc/customizer.php:677
+msgid "Sidebar options for Static Pages. To remove the Sidebar apply No Sidebar Template to the Page."
+msgstr "Tuỳ chọn cột bên cho các trang tĩnh. Để bỏ cột bên, chọn Không cột bên ở mục Giao diện của mỗi trang."
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Có vẻ bạn đã bị lạc. Hãy thử tìm kiếm nhé?"
+
+#: inc/customizer.php:206
+msgid "WooCommerce Settings. Cart, Checkout and Account are standard pages. To remove the Sidebar apply the Full width Template to the page."
+msgstr "Thiết lập WooCommerce trên các trang Giỏ hàng, Thanh toán và Tài khoản. Để bỏ cột bên bạn chọn Giao diện tràn khung trong mỗi trang."
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:173
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "vietnamese"
+
+#. Author URI of the theme
+#: footer.php:68
+#, gp-priority: low
+msgid "https://www.designlabthemes.com/"
+msgstr "https://www.designlabthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Design Lab"
+msgstr "Design Lab"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.designlabthemes.com/type-wordpress-theme/"
+msgstr "https://www.designlabthemes.com/type-wordpress-theme/"
